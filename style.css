@@ -22,8 +22,8 @@ body {
 
 .card {
     width: 600px;
-    transition: all .5s;
     background-color: white;
+    transition: all .5s;
     padding: 16px;
     display: flex;
     flex-direction: row;
@@ -38,6 +38,7 @@ body {
 .card:hover {
     transform: scale(1.05);
 }
+
 
 .card p {
     margin-top: 15px;
@@ -75,9 +76,9 @@ body {
 }
 
 .media {
-    max-width: 90px;
-    margin-left: 390px;
-    margin-top: -26px;
+    max-width: 58px;
+    margin-left: 1214px;
+    margin-top: 126px;
     position: absolute;
     top:110px;
     left:6px;
